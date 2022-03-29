@@ -56,7 +56,7 @@
                                     data-src="https://imgur.com/kfnQnuv.png"
                                     alt=""
                                 />
-                                                        <span class="item-title text-center">𝗗𝗼𝗻𝗮𝘁𝗲 me </span>
+                                                        <span class="item-title text-center">DONATE ME AT THIS </span>
                                                                             </div>
 </p>
 <p align="right">
