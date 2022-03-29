@@ -7,6 +7,8 @@
 ### - Hobbies : 
 - ✨ Learning new languages and technologies
 - ✨ Reading book
+- ✨ Play game
+- ✨ Watching TV
 - ✨ Watching science fiction movie
 
 ### - Main tech knowledge :
@@ -54,7 +56,7 @@
                                     data-src="https://imgur.com/kfnQnuv.png"
                                     alt=""
                                 />
-                                                        <span class="item-title text-center">𝗗𝗼𝗻𝗮𝘁𝗲</span>
+                                                        <span class="item-title text-center">𝗗𝗼𝗻𝗮𝘁𝗲 me </span>
                                                                             </div>
 </p>
 <p align="right">
