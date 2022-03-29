@@ -52,7 +52,7 @@
                                                             <img
                                     class="link-each-image"
                                     data-src="https://imgur.com/kfnQnuv.png"
-                                    alt="𝗗𝗼𝗻𝗮𝘁𝗲"
+                                    alt=""
                                 />
                                                         <span class="item-title text-center">𝗗𝗼𝗻𝗮𝘁𝗲</span>
                                                                             </div>
