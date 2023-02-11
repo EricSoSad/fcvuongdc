@@ -34,7 +34,7 @@
   If you want to reach out to me about anything, be it some doubt just ping me （￣︶￣）✌️.
   
   <a href="mailto:cbvuong.20it5@vku.udn.vn"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/eric.24.14/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/eric_9165/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
   <br>
   <br>
   <a href="https://www.instagram.com/vuong_1402/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
